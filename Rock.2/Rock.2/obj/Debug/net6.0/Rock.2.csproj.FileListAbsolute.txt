@@ -1,0 +1,15 @@
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.csproj.AssemblyReference.cache
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.AssemblyInfoInputs.cache
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.AssemblyInfo.cs
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.csproj.CoreCompileInputs.cache
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\bin\Debug\net6.0\Rock.2.exe
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\bin\Debug\net6.0\Rock.2.deps.json
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\bin\Debug\net6.0\Rock.2.runtimeconfig.json
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\bin\Debug\net6.0\Rock.2.dll
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\bin\Debug\net6.0\Rock.2.pdb
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.dll
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\refint\Rock.2.dll
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.pdb
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\Rock.2.genruntimeconfig.cache
+C:\Users\Maseg\source\Projects\Rock.2\Rock.2\obj\Debug\net6.0\ref\Rock.2.dll
